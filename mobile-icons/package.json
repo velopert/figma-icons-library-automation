@@ -1,0 +1,13 @@
+{
+  "name": "mobile-icons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^17.0.5",
+    "@types/react-dom": "^17.0.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-native-svg": "^12.1.1"
+  }
+}
